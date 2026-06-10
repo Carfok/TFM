@@ -1,8 +1,7 @@
 # Sistema Inteligente de Monitorizacion y Prediccion de Fallos en Equipos Industriales
 
 Trabajo de Fin de Master (TFM) — Sistemas Inteligentes  
-Autor: Jose Ignacio Molina  
-Contacto: joseignmolina@gmail.com
+Autor: Carfok
 
 ---
 
